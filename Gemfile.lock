@@ -1,10 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    helu (0.3)
+    helu (0.5)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  helu (= 0.3)
+  bundler
+  helu
